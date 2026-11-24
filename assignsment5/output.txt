@@ -1,0 +1,4 @@
+packet loss 20.0 %
+average delay 42.9 ms, jitter 6.6 ms
+throughput 345.9 kbps
+VoIP quality: poor
